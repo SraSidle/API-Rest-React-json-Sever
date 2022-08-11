@@ -4,13 +4,15 @@
       "id": 1,
       "nome": "D.B Russell",
       "nickname": "D.B_77",
-      "link_img": "https://th.bing.com/th/id/R.cca850e6e7806f53e2a25e84950b55a0?rik=rA0f2VBEO%2fqaEg&pid=ImgRaw&r=0"
+      "link_img": "https://th.bing.com/th/id/R.cca850e6e7806f53e2a25e84950b55a0?rik=rA0f2VBEO%2fqaEg&pid=ImgRaw&r=0",
+      "descricao": "Director laboratory..."
     },
     {
       "id": 2,
       "nome": "Gil Grisson",
       "nickname": "Gil88",
-      "link_img": "https://th.bing.com/th/id/R.a8720e8ee8697ed2894aac221b90ba82?rik=R0vnHSVWvarQnA&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f40100000%2fGil-Grissom-csi-40102305-1280-736.jpg&ehk=b3OfVjaihisdP%2f7S2wYa%2b8pmvgwekS5YkNL4Ev7OgHM%3d&risl=&pid=ImgRaw&r=0"
+      "link_img": "https://th.bing.com/th/id/R.a8720e8ee8697ed2894aac221b90ba82?rik=R0vnHSVWvarQnA&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f40100000%2fGil-Grissom-csi-40102305-1280-736.jpg&ehk=b3OfVjaihisdP%2f7S2wYa%2b8pmvgwekS5YkNL4Ev7OgHM%3d&risl=&pid=ImgRaw&r=0",
+      "descricao": "E amigo dos insetos"
     },
     {
       "id": 3,
@@ -18,7 +20,8 @@
       "nickname": "Cat09",
       "link_img": "https://th.bing.com/th/id/R.099845cf8fd5a4bb2fbb97f54cf63cfc?rik=MhM0dlfVkY%2fyIA&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f19100000%2f1x08-Anonymous-catherine-willows-19174489-720-540.jpg&ehk=s8gKVr0JrDzIQdiKZpnFr2eBXQ9guQAt772XqYFeNF8%3d&risl=&pid=ImgRaw&r=0",
       "senha": "12345678",
-      "idade": "22"
+      "idade": "22",
+      "descricao": "A vida é muito mais que"
     },
     {
       "id": 4,
@@ -26,7 +29,8 @@
       "nickname": "Nick23",
       "link_img": "https://th.bing.com/th/id/R.4e16e7154d284284e498f1af82fcc7ea?rik=H5NT5Z%2ff4%2fmKBg&riu=http%3a%2f%2fimages1.fanpop.com%2fimages%2fimage_uploads%2fNick-3-george-eads-nick-stokes-1015919_480_400.jpg&ehk=pEmA3p4R%2f9%2ftrt3Y6MjA%2bssZkVVxKAd15kfEaRqMpbM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
       "senha": "12345678",
-      "idade": "24"
+      "idade": "24",
+      "descricao": "o momento é ele"
     },
     {
       "id": 5,
@@ -34,7 +38,7 @@
       "nickname": "BrownW78",
       "link_img": "https://th.bing.com/th/id/OIP.5qDlKwRRYpyus7EOOn2n7AHaFj?pid=ImgDet&rs=1",
       "senha": "12345678",
-      "idade": ""
+      "idade": "Ass rosas não choram"
     },
     {
       "id": 6,
@@ -42,7 +46,8 @@
       "nickname": "Sidle11",
       "link_img": "https://th.bing.com/th/id/R.136f218ca666d0f9ef99a9c75e11be04?rik=mSbyqjAlNrFe4w&riu=http%3a%2f%2f3.bp.blogspot.com%2f_vG0fWsry7w0%2fTQIK7sHG6hI%2fAAAAAAAAAGM%2fkFTq_yc-EqY%2fw1200-h630-p-k-no-nu%2f99870_D00680b_display.jpg&ehk=pVqB5XHSDjO0HeGI8PlMsZfujVuNjuIu7Vu089PN1eM%3d&risl=&pid=ImgRaw&r=0",
       "senha": "12345678",
-      "idade": "20"
+      "idade": "20",
+      "descricao": "Para cada ação, há uma reação"
     },
     {
       "id": 7,
@@ -50,13 +55,15 @@
       "nickname": "July99",
       "link_img": "https://th.bing.com/th/id/OIP.lfIV6OaPH4voLv7ymclKZgHaE7?pid=ImgDet&rs=1",
       "senha": "12345678",
-      "idade": ""
+      "idade": "",
+      "descricao": "O sol brilha"
     },
     {
       "id": 8,
       "nome": "Greg Sanders",
       "nickname": "Greg",
-      "link_img": "https://th.bing.com/th/id/R.ff1f68a04896e4bfc83870e558be0171?rik=VnMT8%2bWaGnctXg&riu=http%3a%2f%2fimages2.fanpop.com%2fimage%2fphotos%2f13900000%2f1x01-Pilot-greg-sanders-13998959-720-480.jpg&ehk=JOERWP0ANDH74QIIjjkmGx%2b0p7vcVjLnu83U9zg70DM%3d&risl=&pid=ImgRaw&r=0"
+      "link_img": "https://th.bing.com/th/id/R.ff1f68a04896e4bfc83870e558be0171?rik=VnMT8%2bWaGnctXg&riu=http%3a%2f%2fimages2.fanpop.com%2fimage%2fphotos%2f13900000%2f1x01-Pilot-greg-sanders-13998959-720-480.jpg&ehk=JOERWP0ANDH74QIIjjkmGx%2b0p7vcVjLnu83U9zg70DM%3d&risl=&pid=ImgRaw&r=0",
+      "descricao": "encontreeei"
     }
   ],
   "publicacoes": [
